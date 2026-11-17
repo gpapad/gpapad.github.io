@@ -1,0 +1,13 @@
+# Local/editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.tmp
+# Fonts are provisioned by the GitHub Actions deployment workflow.
+assets/fonts/*.woff2
+!assets/fonts/.gitkeep
+
+# Generated staging directory
+_site/

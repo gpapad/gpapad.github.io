@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gpapad.github.io/sitemap.xml
